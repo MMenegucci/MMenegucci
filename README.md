@@ -1,5 +1,5 @@
 <div>
-<a href="https://www.linkedin.com/in/mayconmenegucci/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/mayconmenegucci/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="[https://www.linkedin.com/in/mayconmenegucci/)](https://mmenegucci.github.io/portfolio/)" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:techmayconmenegucci@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
