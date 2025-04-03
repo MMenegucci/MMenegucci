@@ -1,16 +1,20 @@
-## Hi there 👋
+<div>
+<a href="https://www.linkedin.com/in/mayconmenegucci/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="[https://www.linkedin.com/in/mayconmenegucci/)](https://mmenegucci.github.io/portfolio/)" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:techmayconmenegucci@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<!--
-**MMenegucci/MMenegucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 font-size="15">Olá, eu sou o Maycon! 😉</h1>
 
-Here are some ideas to get you started:
+(Java/JavaScript/HTML/CSS/MYSQL) 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏽‍💻 Desenvolvedor Backend
+- 🎓 Análise e Desenvolvimento de Sistemas 
+- 💡 Adoro me desafiar
+
+<div style="display: inline_block"><br>
+  <img align="center" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img align="center" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+</div>
